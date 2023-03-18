@@ -1,3 +1,3 @@
 # Weathercast
 
-[DEMO](https://https://weathercast-awokendev.netlify.app/)
+[DEMO](https://weathercast-awokendev.netlify.app/)
